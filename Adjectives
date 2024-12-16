@@ -1,5 +1,6 @@
-Enter the tesseract 
-User Sends Morse Code via Clicks/Keys to communicate with Murph  
-"I got the message!"Murph Reacts  
-If Murph got the messages, user will win the game
-If not, game over!
+ Morse Code game combines interactive learning with stunning visuals inspired by Interstellar:
+
+Animated Circle: At the center of the game, a dynamic circle represents time and gravity, offering visual feedback as you play.
+Cloth Simulation: A responsive cloth symbolizes the fabric of space-time, adding depth and movement to the experience. It is connected to the mouse and you can play around with it.
+Morse Code Gameplay: Decode words by typing their Morse code.
+Morse Code Reference: A built-in guide helps you learn and reference the alphabet as you play. The letter will liht up to help use see it fast.
